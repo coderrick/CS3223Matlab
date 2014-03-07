@@ -1,5 +1,5 @@
 %slow_gcd(v1,v2);
-%A rudimentary but inefficient way of computing the Greatest Common Divisor
+%A rudimentary way of computing the Greatest Common Divisor
 %of two numbers.
 function [sgcd] = slow_gcd(v1, v2)
 while v1 ~= v2
